@@ -1,0 +1,15 @@
+
+/*div class="comments-container" -> comments*/
+.comments-container {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+
+/*button class="btn btn-primary add-comment" -> comments*/
+.add-comment{
+  margin-left: 10px;
+}
